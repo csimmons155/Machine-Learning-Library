@@ -14,4 +14,7 @@ Collection of supervised and unsupervised ML algorithms
 <ul> <h5>Unsupervised Learning:</h5>
 <li>Lambda Means (similar to K-Means but the number of clusters change as the algorithm proceeds)</li>
 <li>Naive Bayes Clustering</li>
+<li>Max Sum Algorithm</li>
+<li>Sum Product</li>
+<li>Multi-Class Perceptron</li>
 </ul>
